@@ -1,4 +1,4 @@
-# freeCodeCamp - Technical Documentation Page
+# freeCodeCamp - Personal Portfolio Webpage
 
 Responsive Web Design - Personal Portfolio Webpage
 
