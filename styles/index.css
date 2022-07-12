@@ -1,8 +1,23 @@
-/* Reset */
+/* Import fonts from fonts.google.com */
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+
+/* Initializing variables */
+:root {
+  /* Colors */
+}
+
+/* Simply reset */
 *,
 ::before,
 ::after {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+}
+
+/* Body */
+body {
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
 }
