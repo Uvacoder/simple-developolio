@@ -29,7 +29,7 @@ Build an app that is functionally similar to [https://personal-portfolio.freecod
 
 ## Demo
 
-For a demo, check out [https://alexperronnet.github.io/FCC-Personal-Portfolio-Webpage/](https://alexperronnet.github.io/FCC-Personal-Portfolio-Webpage/)
+For a demo, check out [https://ap-fcc-personal-portfolio-webpage.netlify.app/](https://ap-fcc-personal-portfolio-webpage.netlify.app/)
 
 ## Screenshots
 
