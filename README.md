@@ -29,7 +29,7 @@ Build an app that is functionally similar to [https://personal-portfolio.freecod
 
 ## Demo
 
-For a demo, check out [https://alexperronnet.github.io/freecodecamp-personal-portfolio-webpage/](https://alexperronnet.github.io/freecodecamp-personal-portfolio-webpage/)
+For a demo, check out [freecodecamp-personal-portfolio-webpage](https://alexperronnet.github.io/freecodecamp-personal-portfolio-webpage/)
 
 ## Screenshots
 
